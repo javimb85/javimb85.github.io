@@ -110,15 +110,6 @@
 							<li><a href="blog.html"><div>Blog</div></a></li>
 						</ul>
 
-						<!-- Top Search
-						============================================= -->
-						<div id="top-search">
-							<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-							<form action="search.html" method="get">
-								<input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
-							</form>
-						</div><!-- #top-search end -->
-
 					</nav><!-- #primary-menu end -->
 
 				</div>
@@ -138,7 +129,7 @@
 				<section id="section-proyectos" class="page-section topmargin-lg">
 
 					<div class="heading-block center">
-						<h2>Our Works</h2>
+						<h2>Proyectos</h2>
 						<span>Some of the Awesome Projects we've worked on.</span>
 					</div>
 
@@ -367,7 +358,7 @@
 				<section id="section-servicios" class="page-section topmargin-lg">
 
 					<div class="heading-block center bottommargin-lg">
-						<h2>Services</h2>
+						<h2>Servicios</h2>
 						<span>List of some features included in Canvas.</span>
 					</div>
 
@@ -480,7 +471,7 @@
 					<div class="container clearfix">
 
 						<div class="heading-block center">
-							<h2>We are <span>Canvas</span></h2>
+							<h2>Quien <span>soy</span></h2>
 							<span>One of the most Versatile Theme on Themeforest</span>
 						</div>
 
