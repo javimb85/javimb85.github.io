@@ -1109,14 +1109,12 @@ body.stretched #header.full-header .container {
 
 #primary-menu ul.mobile-primary-menu { display: none; }
 
-/* Fuera
 #header.full-header #primary-menu > ul {
 	float: left;
 	padding-right: 15px;
 	margin-right: 15px;
 	border-right: 1px solid #EEE;
 }
-*/
 
 #header.transparent-header.full-header #primary-menu > ul { border-right-color: rgba(0,0,0,0.1); }
 
